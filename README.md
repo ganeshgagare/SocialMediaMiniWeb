@@ -178,6 +178,6 @@ SUMMARY
 - Cloudinary media offloading
 - Real-time chat with Socket.io
 - AI extensibility via .NET 8
-- Dockerized, Render,AWS cloud-ready deployment.
+- Dockerized, Render,AWS cloud-ready deployment..
 
 ===========================================
